@@ -46,6 +46,7 @@ public enum SupportedApps: String, CaseIterable {
     case rubyMine = "RubyMine"
     case webStorm = "WebStorm"
     case androidstudio = "Android Studio"
+    case zed = "Zed"
     
     public var name: String {
         return self.rawValue
@@ -133,6 +134,7 @@ public enum SupportedApps: String, CaseIterable {
         case .rubyMine: return "com.jetbrains.rubymine"
         case .webStorm: return "com.jetbrains.webstorm"
         case .androidstudio: return ""
+        case .zed: return "dev.zed.Zed"
         }
     }
     

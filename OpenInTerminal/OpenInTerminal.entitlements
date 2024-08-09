@@ -25,6 +25,7 @@
 		<string>com.microsoft.VSCodeInsiders</string>
 		<string>com.macromates.TextMate</string>
 		<string>net.kovidgoyal.kitty</string>
+		<string>dev.zed.Zed</string>
 	</array>
 </dict>
 </plist>
